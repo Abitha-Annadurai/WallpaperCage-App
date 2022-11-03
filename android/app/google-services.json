@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998769761282",
+    "project_id": "wallpapercage-2e2ba",
+    "storage_bucket": "wallpapercage-2e2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998769761282:android:9fce6f0a0b538f8a2e9b1b",
+        "android_client_info": {
+          "package_name": "com.example.wallpapercage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998769761282-g5umvvu617gj03av5vbt5jgojqqi03ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhghsKO0PL4YrBkePegTn7lT0x9DMLjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998769761282-g5umvvu617gj03av5vbt5jgojqqi03ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
